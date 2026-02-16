@@ -1,3 +1,5 @@
+# Emmanuel Undiandeye
+
 <head>
   <meta property="og:title" content="Emmanuel Undiandeye – Applied Data Scientist" />
   <meta property="og:description" content="Portfolio showcasing applied data science projects focused on analytics, forecasting, and decision-support systems." />
@@ -6,7 +8,6 @@
   <meta name="twitter:card" content="summary_large_image" />
 </head>
 
-# Emmanuel Undiandeye
 ![headshot](/assets/images/digital_avatar_fixed1.png)
 ### Applied Data Scientist
 

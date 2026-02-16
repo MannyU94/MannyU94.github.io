@@ -39,8 +39,8 @@ An end-to-end analytical workflow and interactive Python application exploring t
 ## Contact
 
 - [GitHub](https://github.com/MannyU94)  
-- [LinkedIn](YOUR_LINKEDIN_HERE)  
-- [Email](mailto:YOUR_EMAIL_HERE)
+- [LinkedIn](https://linkedin.com/in/mannyu)  
+- [Email](mailto:emmanuelundiandeye@gmail.com)
 
 Open to remote data and analytics roles.  
 Based in Abuja, Nigeria.

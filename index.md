@@ -47,3 +47,4 @@ An end-to-end analytical workflow and interactive Python application exploring t
 
 Open to remote data and analytics roles.  
 Based in Abuja, Nigeria.
+© Emmanuel Undiandeye. All rights reserved.

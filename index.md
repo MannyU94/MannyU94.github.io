@@ -1,3 +1,10 @@
+<head>
+  <meta property="og:title" content="Emmanuel Undiandeye – Applied Data Scientist" />
+  <meta property="og:description" content="Portfolio showcasing applied data science projects focused on analytics, forecasting, and decision-support systems." />
+  <meta property="og:image" content="https://mannyu94.github.io/assets/images/site_preview.png" />
+  <meta property="og:url" content="https://mannyu94.github.io" />
+  <meta name="twitter:card" content="summary_large_image" />
+</head>
 
 # Emmanuel Undiandeye
 ![headshot](/assets/images/digital_avatar_fixed1.png)

@@ -1,5 +1,6 @@
 
 # Emmanuel Undiandeye
+![headshot](/assets/images/headshot.jpeg)
 ### Applied Data Scientist
 
 I’m an applied data scientist focused on turning real‑world data into clear, actionable insights and decision‑support tools. My work sits at the intersection of data analysis, business context, and research-driven thinking — particularly in environments shaped by imperfect data, operational constraints, and high‑stakes decisions.

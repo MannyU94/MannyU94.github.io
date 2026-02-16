@@ -21,7 +21,7 @@ The project combines KPI governance, forecasting, diagnostic analysis, shrinkage
 
 ### **Premier League Comeback Analysis — Python Application**
 **Python · Data Analysis · Visualization · GUI**
-![Premier League Comeback Analysis](/assets/images/epl-cover.png)
+![Premier League Comeback Analysis](/assets/images/epl-cover.jpg)
 
 An end-to-end analytical workflow and interactive Python application exploring team resilience across 25 seasons of Premier League data. Includes data cleaning, engineered metrics, visualizations, league-wide trends, and a Tkinter GUI for querying team performance.
 
